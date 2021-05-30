@@ -47,7 +47,7 @@ The output of the program will print the student IDs for each company based on t
 2. We require atleast 2 students to schedule interviews.
 3. The number of shortlisted students is same for all companies.
 4. t is the number of slots of interviews in a day.
-5. All inputs given by the user is valid.
+5. All inputs given by the user are valid.
 
 
 
